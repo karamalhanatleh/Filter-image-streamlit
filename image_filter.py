@@ -6,6 +6,7 @@ Created on Fri Sep 22 12:18:58 2023
 @author: Karam Alhanatlh
 """
 
+#import paskages
 import streamlit as st
 from PIL import Image
 import numpy as np

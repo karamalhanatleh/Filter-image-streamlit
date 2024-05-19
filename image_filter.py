@@ -10,7 +10,7 @@ Created on Fri Sep 22 12:18:58 2023
 import streamlit as st
 from PIL import Image
 import numpy as np
-pic = st.camera_input("Take a pic")
+pic = st.camera_input("Take a  pic")
 
 if pic:
     # Open the captured image using PIL
